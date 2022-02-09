@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    background-color: wheat;
+    text-align: center;
+}
+
+h1{
+    color: rgb(88, 47, 0);
+    font-size:90px;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    color: rgb(146, 78, 0);
+    font-family: 'Dancing Script', cursive;
+}
+
+h3{
+    color: chocolate; 
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(117, 49, 0); 
+    font-family: sans-serif;
+}
+
+hr{
+    border:none;
+    border-top-style: dotted;
+    border-top-color: rgb(46, 20, 1);
+    border-top-width: 10px;
+    height: 0px;
+    width:15%;
+   
+   margin: 20px auto 20px auto;
+}
+
+.welcome{
+    margin:
+}
+
+.psec{
+    color: rgb(146, 78, 0);
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+}
+
+.mind{
+    text-decoration: underline;
+}
+
+.mainline{
+    margin:10px auto 0px auto;
+}
+
+.back{
+    margin-left :10%;
+    position: relative;
+    bottom: 100px;
+} 
+
+.pen2{
+    display: inline-block;
+    position: relative;
+    right:20px;
+
+}
+
+.profile{
+    width: 50%;
+    margin: 70px auto 0px auto;
+}
+
+.skills{
+    width: 50%;
+    margin: 70px auto 0px auto;
+}
+
+.contact-me{
+    width: 50%;
+    margin: 70px auto 0px auto;
+}
+
+
